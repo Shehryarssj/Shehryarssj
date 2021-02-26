@@ -15,18 +15,18 @@
 
 <br />
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shehryarssj" alt="Shehryar" /> </p>
 
 ## Technologies Stack
 
 ```json
 {
-   "languages": ["JS/TS", "Python", "Java/Kotlin", "C/C++"],
-   "backend": ["NodeJS", "Django", ,"Golang","Managed Cloud Services in AWS/GCP"],
-   "frontend": ["Vue/Material", "React/Redux", "HTML/CSS"],
-   "databases": ["Mongodb", "Firebase", "Mysql", "Postgresql"],
-   "ai framework":["Tensorflow", "PyTorch", "Scikit-learn"],
-   "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Network Protocols & Programming"]
+   "languages": ["Dart", "Python", "Java", "C/C++"],
+   "frameworks": ["Flask", "Flutter"],
+   "frontend": ["HTML/CSS"],
+   "backend": ["Flask"],
+   "databases": ["Mysql"],
+   "other skills":["Heroku"]
 }
 ```
 <img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
