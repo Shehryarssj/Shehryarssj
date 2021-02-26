@@ -1,4 +1,4 @@
-### Hi there, I'm shehryar 👋
+### Hi there, I'm Shehryar 👋
 
 ## I'm a Developer, an Engineer and a lifelong student!
 - 🔭 I’m currently working as a Flutter App Developer
@@ -29,4 +29,4 @@
    "other skills":["Heroku"]
 }
 ```
-<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
+<img align="left" alt="Shehryar's Github" src="https://github-readme-stats.vercel.app/api?username=Shehryarssj&show_icons=true&hide_border=true" />
