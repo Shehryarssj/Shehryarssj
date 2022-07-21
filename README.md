@@ -1,10 +1,9 @@
 ### Hi there, I'm Shehryar 👋
 
 ## I'm a Developer, an Engineer and a lifelong student!
-- 🔭 I’m currently working as a Flutter App Developer
-- 🌱 I’m currently learning AI and ML
+- 🔭 I’m currently working as a Mobile App Developer
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other students and developers
-- 🥅 2021 Goals: Get my apps published on Play Store.
 
 ### Connect with me:
 
