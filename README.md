@@ -1,8 +1,8 @@
 ### Hi there, I'm Shehryar 👋
 
 ## I'm a Developer, an Engineer and a lifelong student!
-- 🔭 I’m currently working as a Mobile App Developer
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working as a Fullstack Developer
+- 🌱 I’m interested in web development and machine learning
 - 👯 I’m looking to collaborate with other students and developers
 
 ### Connect with me:
