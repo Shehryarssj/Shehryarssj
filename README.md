@@ -20,11 +20,11 @@
 
 ```json
 {
-   "languages": ["Dart", "Python", "Java", "C/C++"],
-   "frameworks": ["Flask", "Flutter"],
-   "frontend": ["HTML/CSS"],
-   "backend": ["Flask"],
-   "databases": ["Mysql"],
+   "languages": ["Javascipt", "Dart", "Python", "Java", "C/C++"],
+   "frameworks": ["Flask", "Flutter", "Express", "React"],
+   "frontend": ["HTML/CSS", "React", "Tailwind CSS"],
+   "backend": ["Flask", "Express"],
+   "databases": ["Mysql", "MongoDB"],
    "other skills":["Heroku"]
 }
 ```
